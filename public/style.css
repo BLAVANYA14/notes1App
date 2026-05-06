@@ -170,10 +170,11 @@ textarea {
 }
 
 .buttons button {
-  flex: 1 1 120px;
-  padding: 10px;
+  flex: 0 1 auto;
+  padding: 6px 10px;
+  font-size: 13px;
   border: none;
-  border-radius: 10px;
+  border-radius: 6px;
   background: orange;
   color: white;
   cursor: pointer;
